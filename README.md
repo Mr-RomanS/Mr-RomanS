@@ -48,7 +48,6 @@ Currently deepening my backend knowledge through hands-on project development.
 Full-stack web application (currently in development):
 
 🔗 **Repository:** https://github.com/Mr-RomanS/canvas-game-node-postgres
-🔗 **Demo (not available):**
 
 Features:
 
