@@ -68,6 +68,7 @@ Planned:
 
 - React
 - Python
+- BASH
 - Deeper SQL knowledge
 - Application security fundamentals
 - WebSockets (Socket.io)
